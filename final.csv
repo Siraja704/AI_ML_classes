@@ -1,0 +1,11 @@
+,Employee,Department,Age,Salary,Experience,Performance_Score
+0,Ali,IT,25.0,55000.0,2.0,32.5
+1,Sara,HR,28.0,49000.0,3.0,44.0
+2,Ahmed,IT,28.0,55000.0,4.0,54.0
+3,Bilal,Sales,30.0,62000.0,3.0,45.0
+4,Hina,HR,26.0,50000.0,2.0,33.0
+5,Usman,Sales,28.0,55000.0,5.0,64.0
+6,Zara,IT,31.0,58000.0,3.0,45.5
+7,Raza,Sales,27.0,61000.0,6.0,73.5
+8,Maryam,HR,28.0,49000.0,3.0,44.0
+9,Danish,IT,29.0,55000.0,3.0,44.5
